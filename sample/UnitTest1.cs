@@ -16,7 +16,7 @@ namespace sample
 
             driver.Navigate().GoToUrl("https://gaming.uefa.com/");
 
-            driver.Manage().Window.Maximize();
+            
         }
     }
 }
