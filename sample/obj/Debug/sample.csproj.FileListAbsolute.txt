@@ -1,0 +1,16 @@
+C:\Users\harsharan\source\repos\sample\sample\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\harsharan\source\repos\sample\sample\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\harsharan\source\repos\sample\sample\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\harsharan\source\repos\sample\sample\bin\Debug\sample.dll
+C:\Users\harsharan\source\repos\sample\sample\bin\Debug\sample.pdb
+C:\Users\harsharan\source\repos\sample\sample\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\harsharan\source\repos\sample\sample\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\harsharan\source\repos\sample\sample\bin\Debug\WebDriver.dll
+C:\Users\harsharan\source\repos\sample\sample\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\harsharan\source\repos\sample\sample\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\harsharan\source\repos\sample\sample\bin\Debug\WebDriver.xml
+C:\Users\harsharan\source\repos\sample\sample\obj\Debug\sample.csprojAssemblyReference.cache
+C:\Users\harsharan\source\repos\sample\sample\obj\Debug\sample.csproj.CoreCompileInputs.cache
+C:\Users\harsharan\source\repos\sample\sample\obj\Debug\sample.csproj.CopyComplete
+C:\Users\harsharan\source\repos\sample\sample\obj\Debug\sample.dll
+C:\Users\harsharan\source\repos\sample\sample\obj\Debug\sample.pdb
